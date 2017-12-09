@@ -1,0 +1,16 @@
+body {
+	background: #DFDFDF;
+}
+
+img {
+	width: 400px;
+	height: 260px;
+}
+
+footer {
+	margin-top: 3%;
+}
+
+.alert {
+	background: #DDDDDD;
+}
